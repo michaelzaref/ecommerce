@@ -1,0 +1,582 @@
+date : 2022/11/22 03:42:12pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:23pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:24pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:26pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:26pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:27pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:17:27pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:20:49pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:29:09pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:31:01pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:34:51pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:34:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:34:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 04:35:19pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:29:03pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:29:10pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:32:12pm
+product adding : 
+product name : JBL Speaker
+disc : JBL Clip 4: Portable Speaker with Bluetooth, Built-in Battery, Waterproof and Dustproof Feature - Black (JBLCLIP4BLKAM)
+price : 49.95
+cat : electronic
+file name :
+New record created successfully
+==========================
+date : 2022/11/22 05:32:15pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:32:16pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:33:18pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:34:26pm
+product adding : 
+product name : JBL Speaker
+disc : JBL Clip 4: Portable Speaker with Bluetooth, Built-in Battery, Waterproof and Dustproof Feature - Black (JBLCLIP4BLKAM)
+price : 44.95
+cat : electronic
+file name :71Wkk4n9olL._AC_SX679_.jpg
+New record created successfully
+==========================
+date : 2022/11/22 05:35:01pm
+product adding : 
+product name : JBL Speaker
+disc : JBL Clip 4: Portable Speaker with Bluetooth, Built-in Battery, Waterproof and Dustproof Feature - Black (JBLCLIP4BLKAM)
+price : 44.95
+cat : electronic
+file name :71Wkk4n9olL._AC_SX679_.jpg
+New record created successfully
+==========================
+date : 2022/11/22 05:36:07pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:36:43pm
+product adding : 
+product name : JBL Speaker
+disc : JBL Clip 4: Portable Speaker with Bluetooth, Built-in Battery, Waterproof and Dustproof Feature - Black (JBLCLIP4BLKAM)
+price : 44.95
+cat : electronic
+file name :71Wkk4n9olL._AC_SX679_.jpg
+New record created successfully
+==========================
+date : 2022/11/22 05:38:25pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:39:34pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 05:40:03pm
+product adding : 
+product name : JBL Speaker
+disc : JBL Clip 4: Portable Speaker with Bluetooth, Built-in Battery, Waterproof and Dustproof Feature - Black (JBLCLIP4BLKAM)
+price : 44.95
+cat : electronic
+file name :jbl.jpg
+New record created successfully
+==========================
+date : 2022/11/22 05:41:02pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 06:54:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 07:07:58pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 07:07:58pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/22 07:08:26pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/22 07:08:49pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','45193','25621')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:09:38pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','81184','66609')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:10:07pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','12074','65086')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:10:24pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','24191','24039')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:10:36pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','65981','47838')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:11:00pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','69460','39327')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:11:21pm
+account regestering : 
+name : fathi
+email : fathi@gmail.com
+phone_code : +20
+phone_number : 0120738087
+email doesn't exists 
+Error: INSERT INTO admin (name ,email ,phone ,password ,picture ,role,cart,fav)
+                VALUES ('fathi', 'fathi@gmail.com', '0120738087','123','','buyer','69365','75594')<br>Unknown column 'cart' in 'field list'
+==========================
+date : 2022/11/22 07:13:20pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/22 07:13:44pm
+account regestering : 
+name : fathi
+email : fathy@gmail.com
+phone_code : +20
+phone_number : 01207380878
+email doesn't exists 
+cart cerated
+==========================
+fav table cerated
+==========================
+New record created successfully
+==========================
+date : 2022/11/22 07:16:34pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/22 07:16:49pm
+account regestering : 
+name : matta
+email : matta@gmail.com
+phone_code : +20
+phone_number : 01207380878
+email doesn't exists 
+cart cerated
+==========================
+fav table cerated
+==========================
+New record created successfully
+==========================
+date : 2022/11/22 10:21:30pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:21:31pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/22 10:21:37pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:31:18pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:31:20pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:31:48pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:31:56pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:32:24pm
+'add product' page loaded without post request
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+date : 2022/11/22 10:56:46pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 10:59:26pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:00:11pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:09:26pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:10:45pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:11:19pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:13:13pm
+'add product' page loaded without post request
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+date : 2022/11/22 11:14:26pm
+'add product' page loaded without post request
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+date : 2022/11/22 11:23:19pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/22 11:23:21pm
+'add product' page loaded without post request
+==========================
+New record created successfully
+==========================
+New record created successfully
+==========================
+date : 2022/11/23 10:31:00am
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 10:36:50am
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:46:49pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:51:59pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:52:40pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:52:41pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:52:41pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:52:41pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:52:45pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:53:15pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:53:17pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:53:45pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:22pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:29pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:31pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:32pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:32pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:54:52pm
+product adding : 
+product name : michaelzaref
+disc : 30
+price : 2022
+file name :81V01sm1kaL._SX522_.jpg
+Error: INSERT INTO product ( name, precent, code,img)
+    VALUES ('michaelzaref', '30', '2022','81V01sm1kaL._SX522_.jpg')<br>Unknown column 'precent' in 'field list'
+==========================
+date : 2022/11/23 03:56:43pm
+product adding : 
+product name : michaelzaref
+disc : 30
+price : 2022
+file name :81V01sm1kaL._SX522_.jpg
+New record created successfully
+==========================
+date : 2022/11/23 03:58:14pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 03:58:17pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:00:23pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:00:41pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:22pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:40pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:40pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:40pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:52pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:53pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:53pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:53pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:01:53pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:02pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:02pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:03pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:03pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:03pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:02:27pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:11:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:11:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:11:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:11:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:11:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:13:23pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:13:23pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:13:23pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:13:24pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:13:24pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:14:45pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:14:48pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:17:43pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:17:47pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/23 04:37:53pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:39:04pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/23 04:39:20pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:39:31pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 04:39:38pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 10:54:30pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 10:55:25pm
+'regster' page loaded without post request
+==========================
+date : 2022/11/23 10:55:50pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 10:55:54pm
+'add product' page loaded without post request
+==========================
+New record created successfully
+==========================
+date : 2022/11/23 10:56:49pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/23 10:57:27pm
+product adding : 
+product name : back friday
+disc : 10
+price : bf-2022
+file name :sale.jpg
+New record created successfully
+==========================
+date : 2022/11/24 12:41:48am
+'add product' page loaded without post request
+==========================
+date : 2022/11/24 12:42:27am
+'add product' page loaded without post request
+==========================
+date : 2022/11/24 12:43:19am
+'add product' page loaded without post request
+==========================
+date : 2022/11/25 01:38:45am
+'add product' page loaded without post request
+==========================
+date : 2022/11/25 01:38:50am
+New record created successfully
+==========================
+date : 2022/11/25 05:57:43pm
+New record created successfully
+==========================
+date : 2022/11/25 05:58:04pm
+'add product' page loaded without post request
+==========================
+date : 2022/11/25 05:58:10pm
+product adding : 
+product name : 
+disc : 
+price : 
+cat : electronic
+file name :download (1).png
+New record created successfully
+==========================
+date : 2022/12/01 03:29:38pm
+product adding : 
+product name : 
+disc : 
+price : 
+cat : electronic
+file name :download (1).png
+New record created successfully
+==========================
+date : 2022/12/17 04:45:43pm
+'add product' page loaded without post request
+==========================
+date : 2022/12/17 04:46:02pm
+'regster' page loaded without post request
+==========================
+date : 2022/12/17 04:46:07pm
+'add product' page loaded without post request
+==========================
+date : 2022/12/17 04:46:13pm
+New record created successfully
+==========================
+date : 2022/12/17 04:46:22pm
+'add product' page loaded without post request
+==========================
+date : 2022/12/17 04:46:27pm
+'add product' page loaded without post request
+==========================
